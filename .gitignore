@@ -1,3 +1,4 @@
 .python-version
 *.json
 .DS_STORE
+.env
